@@ -1,5 +1,5 @@
-# PythonBR - Django Training
+# PythonBR - Trainings in Python
 
-### Start Date : 2024-11-10
-
-### Final Date : 2024-??-??
+## Logic Master : 
+### Start Date : 2025-11-01
+### Final Date : 2025-11-08
