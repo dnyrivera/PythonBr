@@ -10,6 +10,7 @@ ENV/
 env/
 venv.bak/
 pybr-venv/
+.venv-pybr/
 
 # Distribution / packaging
 .Python
